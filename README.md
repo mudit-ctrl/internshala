@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Webscrapper
 
 ## Overview
@@ -7,6 +6,7 @@ This project contains two advanced web scrapers written in Python:
 
 1. **Earth911Scraper** (`main.py`): Scrapes electronics recycling locations and accepted materials from [Earth911](https://search.earth911.com/), providing structured data for recycling centers.
 2. **BestBuyStoreLocatorScraper** (`bonus.py`): Uses Selenium to scrape Best Buy store locations, addresses, hours, and more from the [Best Buy Store Locator](https://www.bestbuy.com/site/store-locator).
+3. when you run bonus.py an automate browser will open make sure you refresh that browser for correct working of the script 
 
 Both scrapers output data in CSV and JSON formats for easy analysis and integration.
 
@@ -128,9 +128,3 @@ store_number,store_name,address,hours,distance,phone,store_details_link
 - Data is saved in both CSV and JSON for flexibility.
 
 ---
-
-## License
-This project is provided for educational and research purposes. Please respect the terms of use of the target websites. 
-=======
-# internshala
->>>>>>> 421d8183bc4c232d70b523210e1162b203e9de9d
