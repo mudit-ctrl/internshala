@@ -1,0 +1,16 @@
+store_number,store_name,address,hours,distance,phone,store_details_link
+1,Chelsea (23rd and 6th),"60 W 23rd St, New York,NY10010",Open until 9 pm,0.5miles away,,https://stores.bestbuy.com/482
+2,Midtown Manhattan (44th and 5th),"531 5th Ave, New York,NY10017",Open until 9 pm,1miles away,,https://stores.bestbuy.com/1028
+3,Union Square,"52 E 14th St, Number 64, New York,NY10003",Open until 9 pm,1.1miles away,,https://stores.bestbuy.com/1531
+4,Jersey City,"125 18th St, Jersey City,NJ07310",Open until 9 pm,2.5miles away,,https://stores.bestbuy.com/1535
+5,86th and Lexington,"1280 Lexington Ave, New York,NY10028",Open until 9 pm,3miles away,,https://stores.bestbuy.com/835
+6,Secaucus,"3 Mill Creek Dr, Secaucus,NJ07094",Open until 9 pm,4.2miles away,,https://stores.bestbuy.com/474
+7,Long Island City,"5001 Northern Blvd, Long Island City,NY11101",Open until 9 pm,4.4miles away,,https://stores.bestbuy.com/478
+8,Atlantic Center,"625 Atlantic Ave, Ste A7, Brooklyn,NY11217",Open until 9 pm,4.7miles away,,https://stores.bestbuy.com/2518
+9,American Dream,"1 American Dream Way, C351, East Rutherford,NJ07073",Open until 10 pm,5.6miles away,,https://stores.bestbuy.com/1217
+10,Bronx Terminal Market,"610 Exterior St, Bronx,NY10451",Open until 9 pm,6miles away,,https://stores.bestbuy.com/1172
+11,Rego Park,"6135 Junction Blvd, Rego Park,NY11374",Open until 9 pm,7miles away,,https://stores.bestbuy.com/483
+12,Gateway Brooklyn,"369 Gateway Dr, Brooklyn,NY11239",Open until 9 pm,9.3miles away,,https://stores.bestbuy.com/1886
+13,Bronx Riverdale,"171 W 230th St, Ste 103, Bronx,NY10463",Open until 9 pm,10.1miles away,,https://stores.bestbuy.com/1261
+14,Bay Parkway Brooklyn,"8923 Bay Pkwy, Brooklyn,NY11214",Open until 9 pm,10.7miles away,,https://stores.bestbuy.com/599
+15,Bergen Town Center,"2400 Bergen Town Ctr, Paramus,NJ07652",Open until 9 pm,11.8miles away,,https://stores.bestbuy.com/887

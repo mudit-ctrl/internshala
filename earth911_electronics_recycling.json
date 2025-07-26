@@ -1,0 +1,3606 @@
+[
+  {
+    "Business_Name": "New York City Bulk Item Curbside Program",
+    "last_update_date": "2016-2-23",
+    "street_address": "New York, NY 10001",
+    "materials_accepted": [
+      "Air Conditioners",
+      "Barbeque Grills",
+      "Carpet",
+      "Carpet Padding",
+      "Dehumidifiers",
+      "Dishwashers",
+      "Freezers",
+      "Heaters",
+      "Household Furniture",
+      "Humidifiers",
+      "Lumber",
+      "Refrigerators",
+      "Stoves",
+      "Washer/Dryers"
+    ]
+  },
+  {
+    "Business_Name": "IMobile LLC",
+    "last_update_date": "2012-2-29",
+    "street_address": "370 7th Ave, New York, NY 10001",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "The 4th Bin",
+    "last_update_date": "2010-2-17",
+    "street_address": "307 7th Ave, New York, NY 10001",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Inkjet Cartridges",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "126 W 34th St, New York, NY 10001",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Willoughby's",
+    "last_update_date": "2011-2-11",
+    "street_address": "298 5th Ave, New York, NY 10001",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Game Consoles",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Telephones"
+    ]
+  },
+  {
+    "Business_Name": "Cartridge World",
+    "last_update_date": "2013-5-15",
+    "street_address": "225 West 23rd Street, New York, NY 10011",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "ProTek Recycling Inc.",
+    "last_update_date": "2013-3-25",
+    "street_address": "276 5th Avenue, New York, NY 10001",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Electronic Servers",
+      "Game Consoles",
+      "GPS Systems",
+      "Hard Drives",
+      "Home Electronics",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Office Machines",
+      "Pagers",
+      "Paper Shredders",
+      "Printers",
+      "Projectors",
+      "Receivers",
+      "Record Players",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Two-Way Radios",
+      "Typewriters",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "Tekserve",
+    "last_update_date": "2011-1-23",
+    "street_address": "119 W 23rd St, New York, NY 10011",
+    "materials_accepted": [
+      "Desktop Computers",
+      "LCD Computer Monitors",
+      "Office Machines"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "500 8th Avenue, New York, NY 10018",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Cartridge World",
+    "last_update_date": "2013-5-15",
+    "street_address": "155 West 35th Street, New York, NY 10001",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Home Depot",
+    "last_update_date": "2022-6-20",
+    "street_address": "40 W 23rd St, New York, NY 10010",
+    "materials_accepted": [
+      "Car Batteries",
+      "Cell Phones",
+      "CFLs",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "16 East 34th Street, New York, NY 10016",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "175 5th Ave, New York, NY 10010",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "641 Avenue of the Americas, New York, NY 10011",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "442 5th Avenue, New York, NY 10018",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Radius Recycling",
+    "last_update_date": "2023-8-1",
+    "street_address": "11 Times Square, New York, NY 10036",
+    "materials_accepted": [
+      "Aluminum Scrap",
+      "Brass",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "Copper",
+      "Desktop Computers",
+      "Ferrous Metals",
+      "Game Consoles",
+      "Hard Drives",
+      "Home Electronics",
+      "Laptop Computers",
+      "Nonferrous Metals",
+      "Stainless Steel",
+      "Zinc"
+    ]
+  },
+  {
+    "Business_Name": "Central Iron and Metal",
+    "last_update_date": "2013-5-15",
+    "street_address": "505 W 27th St, New York, NY 10001",
+    "materials_accepted": [
+      "Aluminum Scrap",
+      "Brass",
+      "Cables",
+      "Cookware",
+      "Copper",
+      "Ferrous Metals",
+      "Garden Tools",
+      "Hardware",
+      "Metal Clothes Hangers",
+      "Metal Tags",
+      "Musical Instruments - Metal",
+      "Nonferrous Metals",
+      "Pipe",
+      "Scrap Metal",
+      "Stainless Steel",
+      "Tools",
+      "Zinc"
+    ]
+  },
+  {
+    "Business_Name": "Staples Copy and Print Shop",
+    "last_update_date": "2013-9-4",
+    "street_address": "315 Park Avenue South, New York, NY 10010",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2012-12-14",
+    "street_address": "261 Madison Ave, New York, NY 10016",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Silver-oxide Batteries",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "57 W 42nd St, New York, NY 10036",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Best Buy",
+    "last_update_date": "2023-2-20",
+    "street_address": "529 5th Ave, New York, NY 10017",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Curling Irons",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Game Consoles",
+      "GPS Systems",
+      "Hard Drives",
+      "Home Electronics",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Projectors",
+      "Receivers",
+      "Scanners",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Toner Cartridges",
+      "Two-Way Radios",
+      "Vacuum Cleaners",
+      "VCRs",
+      "Video Game Peripherals"
+    ]
+  },
+  {
+    "Business_Name": "Mobile City NY, LLC",
+    "last_update_date": "2012-2-29",
+    "street_address": "606 9th Ave, New York, NY 10036",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2012-12-14",
+    "street_address": "116 W 14th St, New York, NY 10011",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Silver-oxide Batteries",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "IMobile LLC",
+    "last_update_date": "2012-2-29",
+    "street_address": "39 W 14th St, New York, NY 10011",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Best Buy",
+    "last_update_date": "2023-2-20",
+    "street_address": "52 E 14th St, New York, NY 10003",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Curling Irons",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Game Consoles",
+      "GPS Systems",
+      "Hard Drives",
+      "Home Electronics",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Projectors",
+      "Receivers",
+      "Scanners",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Toner Cartridges",
+      "Two-Way Radios",
+      "Vacuum Cleaners",
+      "VCRs",
+      "Video Game Peripherals"
+    ]
+  },
+  {
+    "Business_Name": "The Phone Center, Inc",
+    "last_update_date": "2012-2-29",
+    "street_address": "232 3rd Ave, New York, NY 10010",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "776 8th Avenue, Manhattan, NY 10036",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "5-9 Union Square West, New York, NY 10003",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "675 3rd Avenue, New York, NY 10017",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "403 6th Ave, New York, NY 10014",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "390 Avenue of the Americas, New York, NY 10011",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Computer Recycling Services",
+    "last_update_date": "2012-10-19",
+    "street_address": "Manhattan, NY 10003",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Office Machines",
+      "Telephones",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "769 Broadway, Manhattan, NY 10003",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Staples Copy and Print Shop",
+    "last_update_date": "2013-9-4",
+    "street_address": "1755 Broadway, Manhattan, NY 10019",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Cartridge World",
+    "last_update_date": "2013-5-15",
+    "street_address": "153 East 53rd Street, New York, NY 10022",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "425 Park Avenue, New York, NY 10022",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "677 Lexington Ave, New York, NY 10022",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Best Buy",
+    "last_update_date": "2023-2-20",
+    "street_address": "622 Broadway, New York, NY 10012",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Curling Irons",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Game Consoles",
+      "GPS Systems",
+      "Hard Drives",
+      "Home Electronics",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Projectors",
+      "Receivers",
+      "Scanners",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Toner Cartridges",
+      "Two-Way Radios",
+      "Vacuum Cleaners",
+      "VCRs",
+      "Video Game Peripherals"
+    ]
+  },
+  {
+    "Business_Name": "Home Depot",
+    "last_update_date": "2022-6-20",
+    "street_address": "980 3rd Ave, New York, NY 10022",
+    "materials_accepted": [
+      "Car Batteries",
+      "Cell Phones",
+      "CFLs",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries"
+    ]
+  },
+  {
+    "Business_Name": "IMobile LLC",
+    "last_update_date": "2012-2-29",
+    "street_address": "1149 2nd Ave, New York, NY 10022",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "1048 Third Ave, New York, NY 10065",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Project For Empty Space",
+    "last_update_date": "2010-8-30",
+    "street_address": "137 Attorney St, New York, NY 10002",
+    "materials_accepted": [
+      "Brush",
+      "Electronic Servers",
+      "Tools"
+    ]
+  },
+  {
+    "Business_Name": "Cartridge World",
+    "last_update_date": "2013-5-15",
+    "street_address": "401 Bloomfield Street, Hoboken, NJ 07030",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "PS 199 Cell phone and electronics recycling drive",
+    "last_update_date": "2009-12-23",
+    "street_address": "270 West 70th Street, New York, NY 10023",
+    "materials_accepted": [
+      "Cell Phones",
+      "Game Consoles",
+      "Inkjet Cartridges",
+      "MP3 Players",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "P.S. 199 Jessie Isador Straus",
+    "last_update_date": "2009-9-22",
+    "street_address": "270 W 70th St, New York, NY 10023",
+    "materials_accepted": [
+      "CDs",
+      "Cell Phones",
+      "Desktop Computers",
+      "Game Consoles",
+      "Inkjet Cartridges",
+      "MP3 Players"
+    ]
+  },
+  {
+    "Business_Name": "IMobile LLC",
+    "last_update_date": "2012-2-29",
+    "street_address": "267 Amsterdam Ave, New York, NY 10023",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Hoboken Department of Public Works - Electronic Waste Drop-off Site",
+    "last_update_date": "2012-3-20",
+    "street_address": "256 Observer Highway, Hoboken, NJ 07030",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Cables",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Receivers",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Two-Way Radios",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "Henry Curbside Electronics Recycling",
+    "last_update_date": "2011-5-16",
+    "street_address": "17 Ludlow St, New York, NY 10002",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Game Consoles",
+      "MP3 Players",
+      "Office Machines"
+    ]
+  },
+  {
+    "Business_Name": "Wireless Ritz",
+    "last_update_date": "2012-2-29",
+    "street_address": "817 Manhattan Ave, Brooklyn, NY 11222",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Guardian Data Destruction",
+    "last_update_date": "2009-9-10",
+    "street_address": "52-15 11th St, Queens, NY 11101",
+    "materials_accepted": [
+      "Desktop Computers",
+      "Game Consoles",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Office Machines",
+      "Telephones"
+    ]
+  },
+  {
+    "Business_Name": "Union City Department of Public Works - Electronic Waste Drop-off Site",
+    "last_update_date": "2012-3-20",
+    "street_address": "410 - 27th Street, Union City, NJ 07087",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Cables",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Receivers",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Two-Way Radios",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "613 Washington Boulevard, Jersey City, NJ 07310",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Target Store",
+    "last_update_date": "2013-5-15",
+    "street_address": "100 14th St, Jersey City, NJ 07310",
+    "materials_accepted": [
+      "#2 Plastic Bags",
+      "#4 Plastic Bags",
+      "Cell Phones",
+      "Inkjet Cartridges",
+      "MP3 Players"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "2248 Broadway, New York, NY 10024",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Best Buy",
+    "last_update_date": "2023-2-20",
+    "street_address": "125 18th St, Jersey City, NJ 07310",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Curling Irons",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Game Consoles",
+      "GPS Systems",
+      "Hard Drives",
+      "Home Electronics",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Projectors",
+      "Receivers",
+      "Scanners",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Toner Cartridges",
+      "Two-Way Radios",
+      "Vacuum Cleaners",
+      "VCRs",
+      "Video Game Peripherals"
+    ]
+  },
+  {
+    "Business_Name": "Sims Metal Management",
+    "last_update_date": "2013-9-17",
+    "street_address": "30-27 Greenpoint Avenue, Long Island City, NY 11101",
+    "materials_accepted": [
+      "Air Conditioners",
+      "Aluminum Beverage Cans",
+      "Aluminum Food Cans",
+      "Aluminum Lids",
+      "Aluminum Scrap",
+      "Auto Parts",
+      "Barbeque Grills",
+      "Bicycles",
+      "Brass",
+      "Cookware",
+      "Copper",
+      "Dehumidifiers",
+      "Dishwashers",
+      "Ferrous Metals",
+      "Freezers",
+      "Garden Tools",
+      "Hardware",
+      "Heaters",
+      "Humidifiers",
+      "Lawnmowers",
+      "Metal Clothes Hangers",
+      "Metal Tags",
+      "Musical Instruments - Metal",
+      "Nonferrous Metals",
+      "Pipe",
+      "Radiators",
+      "Refrigerators",
+      "Scrap Metal",
+      "Stainless Steel",
+      "Steel Cans",
+      "Steel Lids",
+      "Stoves",
+      "Tools",
+      "Washer/Dryers",
+      "Zinc"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2012-5-3",
+    "street_address": "217 Broadway, New York, NY 10007",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "IMobile LLC",
+    "last_update_date": "2012-2-29",
+    "street_address": "2284 Broadway, New York, NY 10024",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "217 Broadway, New York, NY 10007",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Allocco Recycling Ltd",
+    "last_update_date": "2020-10-14",
+    "street_address": "540 Kingsland Avenue, Brooklyn, NY 11222",
+    "materials_accepted": [
+      "Aluminum Scrap",
+      "Audio Equipment",
+      "Auto Parts",
+      "Bicycles",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Brass",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "Cookware",
+      "Copper",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Electronic Servers",
+      "Ferrous Metals",
+      "Game Consoles",
+      "Garden Tools",
+      "GPS Systems",
+      "Hard Drives",
+      "Hardware",
+      "Home Electronics",
+      "Laptop Computers",
+      "Lawnmowers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Metal Clothes Hangers",
+      "Metal Tags",
+      "MP3 Players",
+      "Musical Instruments - Metal",
+      "Nonferrous Metals",
+      "Office Machines",
+      "Pagers",
+      "Paper Shredders",
+      "Pipe",
+      "Power Tools",
+      "Printers",
+      "Projectors",
+      "Radiators",
+      "Receivers",
+      "Record Players",
+      "Scanners",
+      "Scrap Metal",
+      "Stainless Steel",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Tools",
+      "Two-Way Radios",
+      "Typewriters",
+      "VCRs",
+      "Video Game Peripherals",
+      "Zinc"
+    ]
+  },
+  {
+    "Business_Name": "J&R Music World",
+    "last_update_date": "2011-2-11",
+    "street_address": "23 Park Row, New York, NY 10038",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Game Consoles",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Telephones"
+    ]
+  },
+  {
+    "Business_Name": "Arjay Telecommunications, Inc.",
+    "last_update_date": "2012-2-29",
+    "street_address": "30 Mall Dr W, Jersey City, NJ 07310",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "170 Broadway, New York, NY 10038",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Mr.e-Waste",
+    "last_update_date": "2012-6-11",
+    "street_address": "99 South 3rd St #220, Loading Dock I, Hudson, NY 12534",
+    "materials_accepted": [
+      "Alkaline Batteries",
+      "Audio Equipment",
+      "Auto Parts",
+      "Button Cell Batteries",
+      "Cables",
+      "Car Batteries",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Ferrous Metals",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Marine Batteries",
+      "Medical Equipment - Large",
+      "Metal Clothes Hangers",
+      "Metal Tags",
+      "Microwaves",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nonferrous Metals",
+      "Office Machines",
+      "Paper Shredders",
+      "Pipe",
+      "Printers",
+      "Receivers",
+      "Scrap Metal",
+      "Small Appliances",
+      "Steel Lids",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Toner Cartridges",
+      "Two-Way Radios",
+      "Vacuum Cleaners",
+      "VCRs",
+      "Vehicles"
+    ]
+  },
+  {
+    "Business_Name": "Home Depot",
+    "last_update_date": "2022-6-20",
+    "street_address": "180 12th St, Jersey City, NJ 07310",
+    "materials_accepted": [
+      "Car Batteries",
+      "Cell Phones",
+      "CFLs",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "169 E 86th St, New York, NY 10128",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "West New York Department of Public Works - Electronic Waste Drop-off Site",
+    "last_update_date": "2012-3-20",
+    "street_address": "6200 Broadway, West New York, NJ 07093",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Cables",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Receivers",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Two-Way Radios",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "3101 John F Kennedy Blvd W, North Bergen, NJ 07047",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Best Buy",
+    "last_update_date": "2023-2-20",
+    "street_address": "1280 Lexington Ave, New York, NY 10028",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Curling Irons",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Game Consoles",
+      "GPS Systems",
+      "Hard Drives",
+      "Home Electronics",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Projectors",
+      "Receivers",
+      "Scanners",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Toner Cartridges",
+      "Two-Way Radios",
+      "Vacuum Cleaners",
+      "VCRs",
+      "Video Game Peripherals"
+    ]
+  },
+  {
+    "Business_Name": "Asd",
+    "last_update_date": "2012-3-22",
+    "street_address": "120 E 87th St, New York, NY 10128",
+    "materials_accepted": [
+      "#5 Plastic Clamshells",
+      "#6 Plastic Peanuts",
+      "Auto Bodies",
+      "Car Batteries",
+      "Cell Phone Accessories",
+      "Innertubes"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "3113 John F Kennedy Boulevard West, Union City, NJ 07087",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "1280 Lexington Avenue, New York, NY 10028",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "The Phone Center, Inc",
+    "last_update_date": "2012-2-29",
+    "street_address": "120 Water St, New York, NY 10005",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Advanced Cellular Solutions",
+    "last_update_date": "2012-10-3",
+    "street_address": "52-14 34th St, Long Island City, NY 11101",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Cables",
+      "Car Batteries",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Floppy Disks",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Marine Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Receivers",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Toner Cartridges",
+      "Two-Way Radios",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "Hudson County Household Hazardous Waste Collection Program",
+    "last_update_date": "2015-1-22",
+    "street_address": "Jersey City, NJ 07302",
+    "materials_accepted": [
+      "Acids",
+      "Adhesives",
+      "Aerosol Cans - Empty",
+      "Aerosol Cans - Full",
+      "Antifreeze",
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Brake Fluid",
+      "Button Cell Batteries",
+      "Cables",
+      "Calculators",
+      "Car Batteries",
+      "Car Fluids",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "CFLs",
+      "Chemistry Sets",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "Cooking Oil",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Electronic Servers",
+      "Engine Degreasers",
+      "Fertilizers",
+      "Fire Extinguishers",
+      "Fluorescent Tubes",
+      "Fungicides",
+      "Game Consoles",
+      "Gas/Oil Mixture",
+      "Gasoline",
+      "GPS Systems",
+      "Hair Dye",
+      "Hair Spray",
+      "Hard Drives",
+      "Herbicides",
+      "HHW",
+      "Home Electronics",
+      "Household Cleaners",
+      "Hydraulic Fluid",
+      "Insecticides",
+      "Items Containing Mercury",
+      "Kerosene",
+      "Lacquer",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead Paint Chips",
+      "Lead-acid Batteries - Non-automotive",
+      "Lice Shampoo",
+      "Lighter Fluid",
+      "Lithium-ion Batteries",
+      "Mercury Thermostats",
+      "Motor Oil",
+      "MP3 Players",
+      "Nail Polish",
+      "Nail Polish Removers",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Oil Filters",
+      "Oil-Based Paint",
+      "Pagers",
+      "Paint Strippers",
+      "Paint Thinners",
+      "Paper Shredders",
+      "Pesticides",
+      "Photographic Chemicals",
+      "Pool Chemicals",
+      "Power Steering Fluid",
+      "Printers",
+      "Projectors",
+      "Propane Tanks",
+      "Receivers",
+      "Record Players",
+      "Road Flares",
+      "Sealers",
+      "Solvents",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Transmission Fluid",
+      "Two-Way Radios",
+      "Typewriters",
+      "Varnish",
+      "VCRs",
+      "Wood Stains"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "535 Morgan Avenue, Brooklyn, NY 11222",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "NYC SAFE (Solvents, Automotive, Flammable, Electronics) Disposal Event - Manhattan",
+    "last_update_date": "2016-2-23",
+    "street_address": "New York, NY 10029",
+    "materials_accepted": [
+      "Acids",
+      "Adhesives",
+      "Aerosol Cans - Empty",
+      "Aerosol Cans - Full",
+      "Alkaline Batteries",
+      "Antifreeze",
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Brake Fluid",
+      "Button Cell Batteries",
+      "Cables",
+      "Calculators",
+      "Car Batteries",
+      "Car Fluids",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "CFLs",
+      "Chemistry Sets",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Electronic Servers",
+      "Engine Degreasers",
+      "Fertilizers",
+      "Fluorescent Tubes",
+      "Fungicides",
+      "Game Consoles",
+      "Gas/Oil Mixture",
+      "Gasoline",
+      "GPS Systems",
+      "Hair Dye",
+      "Hair Spray",
+      "Hard Drives",
+      "Herbicides",
+      "HHW",
+      "Home Electronics",
+      "Household Cleaners",
+      "Hydraulic Fluid",
+      "Insecticides",
+      "Items Containing Mercury",
+      "Kerosene",
+      "Lacquer",
+      "Laptop Computers",
+      "Latex Paint",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lice Shampoo",
+      "Lighter Fluid",
+      "Lithium Batteries",
+      "Lithium-ion Batteries",
+      "Marine Batteries",
+      "Mercury Thermostats",
+      "Microwaves",
+      "Motor Oil",
+      "MP3 Players",
+      "Nail Polish",
+      "Nail Polish Removers",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Oil Filters",
+      "Oil-Based Paint",
+      "Pagers",
+      "Paint Strippers",
+      "Paint Thinners",
+      "Paper Shredders",
+      "Pesticides",
+      "Photographic Chemicals",
+      "Pool Chemicals",
+      "Power Steering Fluid",
+      "Printers",
+      "Projectors",
+      "Receivers",
+      "Record Players",
+      "Sealers",
+      "Silver-oxide Batteries",
+      "Smoke Detectors",
+      "Solvents",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Tires",
+      "Transmission Fluid",
+      "Truck Tires",
+      "Two-Way Radios",
+      "Typewriters",
+      "Varnish",
+      "VCRs",
+      "Wood Stains",
+      "Zinc-air Batteries",
+      "Zinc-carbon Batteries"
+    ]
+  },
+  {
+    "Business_Name": "P.C.S. Superstore Inc",
+    "last_update_date": "2012-2-29",
+    "street_address": "2590 Broadway, New York, NY 10025",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Wireless Ritz",
+    "last_update_date": "2012-2-29",
+    "street_address": "755 Grand St, Brooklyn, NY 11211",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "IMobile LLC",
+    "last_update_date": "2012-2-29",
+    "street_address": "147 Montague St, Brooklyn, NY 11201",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "North Bergen MUA - Electronic Waste Drop-off Site",
+    "last_update_date": "2012-3-20",
+    "street_address": "6200 Tonnelle Avenue, North Bergen, NJ 07047",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Cables",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Receivers",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Two-Way Radios",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "Morgen Industries, Inc.",
+    "last_update_date": "2011-5-27",
+    "street_address": "701 Penhorn Ave, Secaucus, NJ 07094",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Office Machines",
+      "Telephones",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "TNT Scrap Metal",
+    "last_update_date": "2013-5-15",
+    "street_address": "340 Maspeth Ave, Brooklyn, NY 11211",
+    "materials_accepted": [
+      "Aluminum Scrap",
+      "Auto Parts",
+      "Bicycles",
+      "Brass",
+      "Cables",
+      "Cookware",
+      "Copper",
+      "Desktop Computers",
+      "Ferrous Metals",
+      "Garden Tools",
+      "Hardware",
+      "Laptop Computers",
+      "Lawnmowers",
+      "Metal Clothes Hangers",
+      "Metal Tags",
+      "Musical Instruments - Metal",
+      "Nonferrous Metals",
+      "Pipe",
+      "Radiators",
+      "Scrap Metal",
+      "Stainless Steel",
+      "Tools",
+      "Zinc"
+    ]
+  },
+  {
+    "Business_Name": "Redwood Materials (located inside at Rad Power Bikes)",
+    "last_update_date": "2023-10-16",
+    "street_address": "Rad Power Bikes, 25 Kent Ave., Brooklyn, NY 11249",
+    "materials_accepted": [
+      "Bicycles",
+      "Cell Phones",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Hoverboards",
+      "Laptop Computers",
+      "Lithium-ion Batteries",
+      "Medical Equipment - Handheld",
+      "Medical Equipment - Large",
+      "MP3 Players",
+      "Nickel-metal Hydride Batteries",
+      "Pagers",
+      "Power Tools",
+      "Smartphones",
+      "Smartwatches",
+      "Tablets",
+      "Telephones",
+      "Toothbrushes",
+      "Toys",
+      "Two-Way Radios",
+      "Vacuum Cleaners",
+      "Video Game Peripherals"
+    ]
+  },
+  {
+    "Business_Name": "Secaucus Department of Public Works - Electronic Waste Drop-off Site",
+    "last_update_date": "2012-3-20",
+    "street_address": "370 Secaucus Road, Secaucus, NJ 07094",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Cables",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Receivers",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Two-Way Radios",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "P.C.S. Superstore Inc",
+    "last_update_date": "2012-2-29",
+    "street_address": "395 Jay St, Brooklyn, NY 11201",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Home Depot",
+    "last_update_date": "2022-6-20",
+    "street_address": "1055 Paterson Plank Rd, Secaucus, NJ 07094",
+    "materials_accepted": [
+      "Car Batteries",
+      "Cell Phones",
+      "CFLs",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries"
+    ]
+  },
+  {
+    "Business_Name": "eRecycleNY",
+    "last_update_date": "2011-9-27",
+    "street_address": "65 Emerson Place, Brooklyn, NY 11205",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Game Consoles",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Office Machines",
+      "Telephones"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "456 Fulton St, Brooklyn, NY 11201",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "The Customer Center LLC",
+    "last_update_date": "2012-2-29",
+    "street_address": "2831 John F Kennedy Blvd W, Jersey City, NJ 07306",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Target Store",
+    "last_update_date": "2013-5-15",
+    "street_address": "7101 Tonnelle Ave, North Bergen, NJ 07047",
+    "materials_accepted": [
+      "#2 Plastic Bags",
+      "#4 Plastic Bags",
+      "Cell Phones",
+      "Inkjet Cartridges",
+      "MP3 Players"
+    ]
+  },
+  {
+    "Business_Name": "Mobile City NY, LLC",
+    "last_update_date": "2012-2-29",
+    "street_address": "2803 Broadway, New York, NY 10025",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "1-800-GOT-JUNK?",
+    "last_update_date": "2012-1-24",
+    "street_address": "100 Dorigo Lane, Unit F, Secaucus, NJ 07094",
+    "materials_accepted": [
+      "#1 Plastic Beverage Bottles",
+      "#2 Plastic Bags",
+      "#2 Plastic Film",
+      "#2 Plastic Jugs - Clear",
+      "#2 Plastic Jugs - Colored",
+      "#3 Plastic Bottles",
+      "#4 Plastic Bottles",
+      "#5 Plastic Bottles",
+      "#5 Plastic Caps",
+      "#6 Plastic - Expanded",
+      "#6 Plastic Bottles",
+      "#6 Plastic Peanuts",
+      "#7 Plastic Bottles",
+      "Arts and Crafts Supplies",
+      "Asphalt",
+      "Baby Products",
+      "Bicycles",
+      "Blue Glass Beverage Containers",
+      "Branches",
+      "Brick",
+      "Brown Glass Beverage Containers",
+      "Brush",
+      "Carpet",
+      "Carpet Padding",
+      "Cassette Tapes",
+      "Catalogs",
+      "CDs",
+      "Ceiling Tiles",
+      "Cell Phones",
+      "Ceramic Tile",
+      "Chipboard",
+      "Clear Glass Beverage Containers",
+      "Clothing",
+      "Compostable Plastics",
+      "Concrete",
+      "Construction Debris",
+      "Construction Materials",
+      "Cookware",
+      "Corks",
+      "Corrugated Cardboard",
+      "Desktop Computers",
+      "Dirt",
+      "Dishwashers",
+      "Doors",
+      "Eyeglasses",
+      "Fabric",
+      "Ferrous Metals",
+      "Floppy Disks",
+      "Game Consoles",
+      "Gift Bags",
+      "Gift Boxes",
+      "Grass Clippings",
+      "Green Glass Beverage Containers",
+      "Greeting Cards",
+      "Gypsum Drywall",
+      "Hardware",
+      "Hay",
+      "Household Furniture",
+      "Inkjet Cartridges",
+      "Innertubes",
+      "Lawnmowers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Leaves",
+      "Light Fixtures",
+      "Lighting Ballasts",
+      "Linens",
+      "Linoleum",
+      "Lumber",
+      "Magazines",
+      "Mannequins",
+      "Manure",
+      "Mattresses",
+      "Medical Equipment - Large",
+      "Metal Clothes Hangers",
+      "Milk and Juice Cartons",
+      "Mixed Paper",
+      "MP3 Players",
+      "Musical Instruments - Metal",
+      "Neon Lights",
+      "Newspaper",
+      "Nonferrous Metals",
+      "Office Machines",
+      "Office Paper",
+      "Organic Food Waste",
+      "Ornaments",
+      "Pallets",
+      "Paper Bags",
+      "Paperback Books",
+      "Paperboard",
+      "Phone Books",
+      "Pipe",
+      "Plastic Cards",
+      "Porcelain Products",
+      "Roofing Materials",
+      "Sand",
+      "Sawdust",
+      "Scrap Metal",
+      "Shingles",
+      "Shoes",
+      "Shredded Paper",
+      "Small Appliances",
+      "Soiled Paper",
+      "Sporting Goods",
+      "Steel Cans",
+      "Stone",
+      "String Lights",
+      "Surfboards",
+      "Telephones",
+      "Tennis Balls",
+      "Tile",
+      "Tires",
+      "Toner Cartridges",
+      "Tools",
+      "Toys",
+      "Treated Glass Containers",
+      "Trophies",
+      "Tyvek Envelopes",
+      "Video Tapes",
+      "Vinyl Records",
+      "Water Filters",
+      "Waxed Cardboard",
+      "Weeds",
+      "Windows",
+      "Wood",
+      "Wood Chips",
+      "Wood Furnishings",
+      "Yard Waste",
+      "Yoga Mats"
+    ]
+  },
+  {
+    "Business_Name": "Sprint Store",
+    "last_update_date": "2013-7-30",
+    "street_address": "30-30 Steinway St, Astoria, NY 11103",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Home Depot",
+    "last_update_date": "2022-6-20",
+    "street_address": "7605 Tonnelle Ave, North Bergen, NJ 07047",
+    "materials_accepted": [
+      "Car Batteries",
+      "Cell Phones",
+      "CFLs",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries"
+    ]
+  },
+  {
+    "Business_Name": "Best Buy",
+    "last_update_date": "2023-2-20",
+    "street_address": "5001 Northern Blvd, Queens, NY 11101",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Curling Irons",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Game Consoles",
+      "GPS Systems",
+      "Hard Drives",
+      "Home Electronics",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Projectors",
+      "Receivers",
+      "Scanners",
+      "Small Appliances",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Toner Cartridges",
+      "Two-Way Radios",
+      "Vacuum Cleaners",
+      "VCRs",
+      "Video Game Peripherals"
+    ]
+  },
+  {
+    "Business_Name": "Home Depot",
+    "last_update_date": "2022-6-20",
+    "street_address": "50-10 Northern Blvd, Queens, NY 11101",
+    "materials_accepted": [
+      "Car Batteries",
+      "Cell Phones",
+      "CFLs",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries"
+    ]
+  },
+  {
+    "Business_Name": "Staples",
+    "last_update_date": "2013-9-4",
+    "street_address": "24-41 31st Street, Queens, NY 11102",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "- Big Sky Recycling -",
+    "last_update_date": "2024-1-2",
+    "street_address": "3860 SE Naef Rd #68025, Portland, OR 97267",
+    "materials_accepted": [
+      "Cell Phones",
+      "MP3 Players",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "- iPhone Antidote -",
+    "last_update_date": "2016-8-8",
+    "street_address": "4040 Civic Center Drive, Suite 200, San Rafael, CA 94903",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Laptop Computers",
+      "MP3 Players",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "Ace Recycling Inc.",
+    "last_update_date": "2013-1-14",
+    "street_address": "219 MURRAY STREET, Fort Wayne, IN 46803",
+    "materials_accepted": [
+      "Cell Phones",
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "AM Exclusive Business Machines, Inc.",
+    "last_update_date": "2017-10-28",
+    "street_address": "79-63 77th Ave, Glendale, NY 11385",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "American Foundation for Children with AIDS",
+    "last_update_date": "2012-9-4",
+    "street_address": "6221 Blue Grass Ave, Harrisburg, PA 17112",
+    "materials_accepted": [
+      "Medical Equipment - Large"
+    ]
+  },
+  {
+    "Business_Name": "Apple Recycling Program",
+    "last_update_date": "2013-2-26",
+    "street_address": "Cupertino, CA 95014",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "MP3 Players",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "Back Thru The Future Hard Drive Recycling Program",
+    "last_update_date": "2023-12-18",
+    "street_address": "1 Park Dr, Suite 9, Franklin, NJ 07416",
+    "materials_accepted": [
+      "Hard Drives"
+    ]
+  },
+  {
+    "Business_Name": "Barclay Enterprises T-Waste Recycling Program",
+    "last_update_date": "2012-8-23",
+    "street_address": "Colton, CA 92324",
+    "materials_accepted": [
+      "Cell Phones",
+      "Telephones"
+    ]
+  },
+  {
+    "Business_Name": "Best Buy Technology Recycling Box",
+    "last_update_date": "2023-4-13",
+    "street_address": ",",
+    "materials_accepted": [
+      "Home Electronics"
+    ]
+  },
+  {
+    "Business_Name": "Big Green Box",
+    "last_update_date": "2016-3-11",
+    "street_address": "265 Quarry Road Southeast, Lancaster, OH 43130",
+    "materials_accepted": [
+      "Alkaline Batteries",
+      "Cell Phones",
+      "Laptop Computers",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium Batteries",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Silver-oxide Batteries",
+      "Tablets",
+      "Zinc-carbon Batteries"
+    ]
+  },
+  {
+    "Business_Name": "Brother Cartridge Collection Program",
+    "last_update_date": "2012-9-12",
+    "street_address": "Memphis, TN 38133",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "BulbCycle",
+    "last_update_date": "2016-5-5",
+    "street_address": "7770 Regents Road, #113 Suite #547, San Diego, CA 92122",
+    "materials_accepted": [
+      "CFLs",
+      "Fluorescent Tubes",
+      "Light Fixtures",
+      "Lighting Ballasts",
+      "Lithium Batteries",
+      "Lithium-ion Batteries",
+      "Mercury Thermostats",
+      "Tablets",
+      "Zinc-carbon Batteries"
+    ]
+  },
+  {
+    "Business_Name": "Buyback Boss -- Get paid for recycling smartphones, tablets and smartwatches",
+    "last_update_date": "2022-10-24",
+    "street_address": "450 N 54th St, Chandler, AZ 85226",
+    "materials_accepted": [
+      "Smartphones",
+      "Smartwatches",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "BuyMyTronics",
+    "last_update_date": "2012-10-30",
+    "street_address": "5855 Stapleton Drive N, Unit A-155, Denver, CO 80216",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Laptop Computers",
+      "MP3 Players"
+    ]
+  },
+  {
+    "Business_Name": "C&I Electronics",
+    "last_update_date": "2012-9-25",
+    "street_address": "1700 N Lafayette Ave, Evansville, IN 47711",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Cables",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Medical Equipment - Large",
+      "MP3 Players",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Receivers",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Two-Way Radios",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "Canon, Inc.",
+    "last_update_date": "2018-5-23",
+    "street_address": "5980 Industrial Drive, Gloucester, VA 23061",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Capstone Wireless",
+    "last_update_date": "2010-4-5",
+    "street_address": "10610 Metric Dr #178, Dallas, TX 75243",
+    "materials_accepted": [
+      "Button Cell Batteries",
+      "Cell Phones",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries"
+    ]
+  },
+  {
+    "Business_Name": "CartridgeFundraising.com",
+    "last_update_date": "2012-10-31",
+    "street_address": "Rochester, NY 14609",
+    "materials_accepted": [
+      "Cell Phones",
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Cartridges for Kids",
+    "last_update_date": "2023-12-18",
+    "street_address": "Loveland, CO 80538",
+    "materials_accepted": [
+      "Cell Phones",
+      "Game Consoles",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Cash For Smartphones",
+    "last_update_date": "2013-2-14",
+    "street_address": "84 Coney Island, Sparks, NV 89431",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "CashforiPhones",
+    "last_update_date": "2013-2-11",
+    "street_address": "84 Coney Island, Sparks, NV 89431",
+    "materials_accepted": [
+      "Cell Phones",
+      "Laptop Computers",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "Castaway Technologies LLC",
+    "last_update_date": "2013-5-17",
+    "street_address": "57 Chase Street, Methuen, MA 01844",
+    "materials_accepted": [
+      "Desktop Computers",
+      "LCD Computer Monitors"
+    ]
+  },
+  {
+    "Business_Name": "Castle Ink",
+    "last_update_date": "2013-3-15",
+    "street_address": "37 Wyckoff St, Greenlawn, NY 11740",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "CD Recycling Center of America",
+    "last_update_date": "2019-5-13",
+    "street_address": "68 E Stiles Road, Salem, NH 03079",
+    "materials_accepted": [
+      "CD Cases",
+      "CDs",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "DVDs",
+      "Floppy Disks",
+      "Inkjet Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Cell Funds",
+    "last_update_date": "2012-8-23",
+    "street_address": "14429 Ventura Blvd, Sherman Oaks, CA 91423",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Cell Phones for Soldiers",
+    "last_update_date": "2012-9-25",
+    "street_address": "Norwell, MA 02061",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Cellucycle Cell Phone Recycling",
+    "last_update_date": "2012-8-23",
+    "street_address": "12562 SW Main St, Tigard, OR 97223",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Cellular Recycler",
+    "last_update_date": "2018-5-24",
+    "street_address": "4840 Sterling Dr. Unit A, Boulder, CO 80301",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Chemwise, Inc.",
+    "last_update_date": "2012-10-31",
+    "street_address": "316 E Sandusky St, Findlay, OH 45840",
+    "materials_accepted": [
+      "CFLs",
+      "Chemistry Sets",
+      "Clear Glass Beverage Containers",
+      "Ferrous Metals",
+      "Fluorescent Tubes",
+      "Inkjet Cartridges",
+      "Items Containing Mercury",
+      "Medical Equipment - Large",
+      "Mercury Thermostats",
+      "Nail Polish",
+      "Photographic Chemicals",
+      "Solvents",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Coastal Recycling Centers",
+    "last_update_date": "2012-10-31",
+    "street_address": "42-280 Beacon Hill, Suite D-10, Palm Desert, CA 92211",
+    "materials_accepted": [
+      "Cell Phones",
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "CURE Recycling",
+    "last_update_date": "2013-5-6",
+    "street_address": "Woodstock, GA 30188",
+    "materials_accepted": [
+      "Cell Phones",
+      "Digital Cameras",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "MP3 Players",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Cyber Acoustics Bulk Headset Recycling program",
+    "last_update_date": "2021-12-15",
+    "street_address": "3109 NE 109th Ave, Vancouver, WA 98682",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Computer Peripherals - External",
+      "Home Electronics"
+    ]
+  },
+  {
+    "Business_Name": "Dell Global Recycling",
+    "last_update_date": "2012-9-25",
+    "street_address": "Round Rock, TX 78682",
+    "materials_accepted": [
+      "Desktop Computers",
+      "Inkjet Cartridges",
+      "LCD Computer Monitors",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Disc Replay",
+    "last_update_date": "2019-5-13",
+    "street_address": "1418 Butterfield Rd, Downers Grove, IL 60515",
+    "materials_accepted": [
+      "Blu-Ray Players",
+      "Calculators",
+      "CDs",
+      "Cell Phones",
+      "DVDs",
+      "Game Consoles",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Tablets",
+      "Video Game Cartridges",
+      "Video Game Peripherals"
+    ]
+  },
+  {
+    "Business_Name": "Domesitc Violence Advocacy Program Emergency Cell Phone Collection",
+    "last_update_date": "2012-11-1",
+    "street_address": "PO Box 30, Mechanicville, NY 12118",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "e-Cycle LLC",
+    "last_update_date": "2013-6-18",
+    "street_address": "4105 Leap Road, Hilliard, OH 43026",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "e-Cycle LLC Headquarters",
+    "last_update_date": "2013-6-18",
+    "street_address": "7775 Walton Parkway, Suite 250, New Albany, OH 43054",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "e-Cycle LLC.",
+    "last_update_date": "2012-8-23",
+    "street_address": "4105 Leap Rd, Hilliard, OH 43026",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "ECO-CELL",
+    "last_update_date": "2012-9-27",
+    "street_address": "1726 Mellwood Ave, Louisville, KY 40206",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Laptop Computers",
+      "MP3 Players",
+      "Tablets",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "ECOmm Recycling",
+    "last_update_date": "2012-11-30",
+    "street_address": "Belleview, FL 34421",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "EcoPhones Electronics Recycling",
+    "last_update_date": "2012-11-1",
+    "street_address": "Dallas, TX 75220",
+    "materials_accepted": [
+      "Cell Phones",
+      "Inkjet Cartridges",
+      "MP3 Players"
+    ]
+  },
+  {
+    "Business_Name": "eCycle B.E.S.T.",
+    "last_update_date": "2012-10-26",
+    "street_address": "994 Glendale Ave #1, Sparks, NV 89431",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Office Machines",
+      "Tablets",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "eCycle Group",
+    "last_update_date": "2012-10-26",
+    "street_address": "416 Bryant Circle, Ste E, Ojai, CA 93023",
+    "materials_accepted": [
+      "Cell Phones",
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Educational Assistance Limited",
+    "last_update_date": "2012-10-26",
+    "street_address": "Glen Ellyn, IL 60138",
+    "materials_accepted": [
+      "Household Furniture",
+      "LCD Computer Monitors",
+      "Office Furniture",
+      "Scrap Metal",
+      "Tools"
+    ]
+  },
+  {
+    "Business_Name": "Elarasys",
+    "last_update_date": "2012-9-27",
+    "street_address": "180 Corporate Dr, Elgin, IL 60123",
+    "materials_accepted": [
+      "Office Machines"
+    ]
+  },
+  {
+    "Business_Name": "Enviro Solutions",
+    "last_update_date": "2012-8-24",
+    "street_address": "Lexington, SC 29071",
+    "materials_accepted": [
+      "Cell Phones",
+      "Inkjet Cartridges",
+      "MP3 Players"
+    ]
+  },
+  {
+    "Business_Name": "EnviroSmart.org Mail In Program",
+    "last_update_date": "2016-8-1",
+    "street_address": "600 Montour Drive, Richmond, VA 23236",
+    "materials_accepted": [
+      "Cell Phones",
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "EraseMyLaptop",
+    "last_update_date": "2013-4-29",
+    "street_address": "427 Greenwich St, Philadelphia, PA 19147",
+    "materials_accepted": [
+      "Laptop Computers"
+    ]
+  },
+  {
+    "Business_Name": "EverLights",
+    "last_update_date": "2020-10-23",
+    "street_address": "1105 Stevenson Ct, Roselle, IL 60172",
+    "materials_accepted": [
+      "Alkaline Batteries",
+      "Button Cell Batteries",
+      "Car Batteries",
+      "CFLs",
+      "CRT Televisions",
+      "Fluorescent Tubes",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lighting Ballasts",
+      "Lithium-ion Batteries",
+      "Marine Batteries",
+      "Mercury Thermostats",
+      "Neon Lights",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Small Appliances",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Evolve Recycling",
+    "last_update_date": "2013-1-3",
+    "street_address": "2700 W Higgins Road, Hoffman Estates, IL 60169",
+    "materials_accepted": [
+      "Cell Phones",
+      "Digital Cameras",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "MP3 Players",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Evolve Recycling",
+    "last_update_date": "2012-8-30",
+    "street_address": "380 East Bayfront Pkwy, Erie, PA 16507",
+    "materials_accepted": [
+      "Cell Phones",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "MP3 Players",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "EWASTE+ Sony Mail-Back Program",
+    "last_update_date": "2018-4-23",
+    "street_address": "7318 Victor- Mendon Road, Victor, NY 14564",
+    "materials_accepted": [
+      "Blu-Ray Players",
+      "Cassette Players",
+      "CD Players",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "DVD Players",
+      "Game Consoles",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Printers",
+      "Scanners",
+      "Small Appliances",
+      "Tablets",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "EZ on the Earth",
+    "last_update_date": "2016-5-5",
+    "street_address": "Greenwood, IN 46143",
+    "materials_accepted": [
+      "Alkaline Batteries",
+      "Button Cell Batteries",
+      "Cables",
+      "CFLs",
+      "Computer Peripherals - Internal",
+      "Desktop Computers",
+      "Fluorescent Tubes",
+      "Halogen Bulbs",
+      "Hard Drives",
+      "Incandescent Lightbulbs",
+      "Items Containing Mercury",
+      "Laptop Computers",
+      "Lead-acid Batteries - Non-automotive",
+      "Lighting Ballasts",
+      "Lithium Batteries",
+      "Lithium-ion Batteries",
+      "Mercury Thermostats",
+      "Neon Lights",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Silver-oxide Batteries",
+      "Smoke Detectors",
+      "Zinc-air Batteries",
+      "Zinc-carbon Batteries"
+    ]
+  },
+  {
+    "Business_Name": "EZ-cycle Box",
+    "last_update_date": "2020-3-5",
+    "street_address": "Newton, MA 02466",
+    "materials_accepted": [
+      "CDs",
+      "Cell Phones",
+      "Desktop Computers",
+      "Floppy Disks",
+      "Inkjet Cartridges",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Office Machines",
+      "Telephones",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Floppydisk Recycle Program",
+    "last_update_date": "2012-10-12",
+    "street_address": "2620 Walnut Ave Unit D, Tustin, CA 92780",
+    "materials_accepted": [
+      "Floppy Disks"
+    ]
+  },
+  {
+    "Business_Name": "Folica Hair Dryer Recycling Program",
+    "last_update_date": "2012-10-26",
+    "street_address": "Dayton, NJ 08810",
+    "materials_accepted": [
+      "Home Electronics"
+    ]
+  },
+  {
+    "Business_Name": "Full Circle Image",
+    "last_update_date": "2013-5-6",
+    "street_address": "Rochester, MN 55901",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "FundingFactory.com",
+    "last_update_date": "2012-10-26",
+    "street_address": "Erie, PA 16507",
+    "materials_accepted": [
+      "Cell Phones",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "MP3 Players",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "GadgetGobbler.com",
+    "last_update_date": "2012-10-12",
+    "street_address": "Aurora, IL 60506",
+    "materials_accepted": [
+      "Cell Phones",
+      "MP3 Players",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "Gazelle",
+    "last_update_date": "2015-11-2",
+    "street_address": ",",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Laptop Computers",
+      "MP3 Players",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "Gizmogul",
+    "last_update_date": "2013-5-16",
+    "street_address": "6 Merchant St #5, Sharon, MA 02067",
+    "materials_accepted": [
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal"
+    ]
+  },
+  {
+    "Business_Name": "Gizmogul",
+    "last_update_date": "2014-11-25",
+    "street_address": "6 Merchant St. #5, Sharon, MA 02067",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Nickel-metal Hydride Batteries",
+      "Silver-oxide Batteries",
+      "Tablets",
+      "X-rays"
+    ]
+  },
+  {
+    "Business_Name": "Global Re-Source Funding",
+    "last_update_date": "2012-10-12",
+    "street_address": "100 W 18th Ave, North Kansas City, MO 64116",
+    "materials_accepted": [
+      "Cell Phones",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "MP3 Players",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "GRC Wireless Recycling",
+    "last_update_date": "2016-8-1",
+    "street_address": "11067 NW 122ND STREET, Medley, FL 33178",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "Green Buyback",
+    "last_update_date": "2016-9-29",
+    "street_address": "48 Bi State Plaza #101, Old Tappan, NJ 07675",
+    "materials_accepted": [
+      "Cell Phones",
+      "Game Consoles",
+      "Home Electronics",
+      "Laptop Computers",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "Green Hippo",
+    "last_update_date": "2013-5-21",
+    "street_address": "300 South Lewis Road, Suite K, Camarillo, CA 93012",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Digital Cameras",
+      "GPS Systems",
+      "Inkjet Cartridges",
+      "MP3 Players",
+      "Pagers",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Green Project Inc",
+    "last_update_date": "2011-1-14",
+    "street_address": "15335 Don Julian Rd, Hacienda Heights, CA 91745",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "GreenCanDo.org",
+    "last_update_date": "2012-10-12",
+    "street_address": "P.O. Box 324, Massapequa Park, NY 11762",
+    "materials_accepted": [
+      "Cell Phones",
+      "Digital Cameras",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "MP3 Players",
+      "Tablets",
+      "Toner Cartridges",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "GreenCells Cell Phone Recycling Program",
+    "last_update_date": "2012-8-30",
+    "street_address": "1701 Quincy Ave, Naperville, IL 60540",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "GreenDisk",
+    "last_update_date": "2025-7-2",
+    "street_address": "Issaquah, WA 98029",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Cables",
+      "Cassette Players",
+      "Cassette Tapes",
+      "CD Players",
+      "CDs",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "Digital Cameras",
+      "DVD Players",
+      "DVDs",
+      "Floppy Disks",
+      "Game Consoles",
+      "GPS Systems",
+      "Hard Drives",
+      "Inkjet Cartridges",
+      "Laptop Computers",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium-ion Batteries",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Office Machines",
+      "Pagers",
+      "Receivers",
+      "Smartphones",
+      "Tablets",
+      "Toner Cartridges",
+      "Video Game Peripherals",
+      "Video Tapes"
+    ]
+  },
+  {
+    "Business_Name": "GreenPhone Recycling Program",
+    "last_update_date": "2012-10-12",
+    "street_address": "Boulder, CO 80301",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "GreenTextbooks.org Recycling Program",
+    "last_update_date": "2012-10-12",
+    "street_address": "1412 Plata Way, Sandy, UT 84093",
+    "materials_accepted": [
+      "CDs",
+      "Paperback Books"
+    ]
+  },
+  {
+    "Business_Name": "Guzu.com",
+    "last_update_date": "2012-11-6",
+    "street_address": "71 E Industry Ct, Deer Park, NY 11729",
+    "materials_accepted": [
+      "Audio Equipment",
+      "Cables",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Home Electronics",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "MP3 Players",
+      "Office Machines",
+      "Paper Shredders",
+      "Printers",
+      "Receivers",
+      "Telephones",
+      "Television Accessories",
+      "Two-Way Radios",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "Hellocycle, Inc.",
+    "last_update_date": "2016-1-27",
+    "street_address": "18 Morin St, Biddeford, ME 04005",
+    "materials_accepted": [
+      "Alkaline Batteries",
+      "CDs",
+      "Cell Phones",
+      "CFLs",
+      "Inkjet Cartridges",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-metal Hydride Batteries"
+    ]
+  },
+  {
+    "Business_Name": "Hewlett-Packard Planet Partners Recycling Program",
+    "last_update_date": "2012-10-12",
+    "street_address": "Palo Alto, CA 94304",
+    "materials_accepted": [
+      "Cell Phones",
+      "CRT Computer Monitors",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Inkjet Cartridges",
+      "LCD Computer Monitors",
+      "MP3 Players",
+      "Office Machines",
+      "Printers",
+      "Scanners",
+      "Tablets",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "HP Inc.",
+    "last_update_date": "2018-5-23",
+    "street_address": "1501 Page Mill Road, Palo Alto, CA 94304",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Ink Technologies",
+    "last_update_date": "2013-10-17",
+    "street_address": "7600 McEwen Road, Dayton, OH 45459",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Inkpal.com",
+    "last_update_date": "2010-12-9",
+    "street_address": "14 Palm Harbor Village Way W, Palm Coast, FL 32137",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "InkRecycling.org ",
+    "last_update_date": "2012-10-12",
+    "street_address": "3943 Poppyseed Pl, Calabasas, CA 91302",
+    "materials_accepted": [
+      "Inkjet Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "InterConnection Computer Reuse and Learning Center",
+    "last_update_date": "2016-1-27",
+    "street_address": "3415 Stone Way North, Seattle, WA 98103",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Laptop Computers",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "iRecycle Kit by Battery Solutions",
+    "last_update_date": "2018-6-4",
+    "street_address": "Howell, MI 48843",
+    "materials_accepted": [
+      "Alkaline Batteries",
+      "Button Cell Batteries",
+      "Cell Phones",
+      "Digital Cameras",
+      "GPS Systems",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium Batteries",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Pagers",
+      "Silver-oxide Batteries",
+      "Tablets",
+      "Two-Way Radios",
+      "Zinc-air Batteries",
+      "Zinc-carbon Batteries"
+    ]
+  },
+  {
+    "Business_Name": "iReTron",
+    "last_update_date": "2013-1-7",
+    "street_address": "15466 Los Gatos Boulevard, Los Gatos, CA 95032",
+    "materials_accepted": [
+      "Calculators",
+      "Cell Phones",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "Laptop Computers",
+      "MP3 Players",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "JACO Product Recovery Services",
+    "last_update_date": "2017-11-4",
+    "street_address": "451 West 69th Street, Loveland, CO 80538",
+    "materials_accepted": [
+      "Cell Phones",
+      "Desktop Computers",
+      "Electronic Servers",
+      "Office Machines",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "Keebloo, LLC",
+    "last_update_date": "2012-10-12",
+    "street_address": "140 58th Street, Bldg. B, Unit 2G, Brooklyn, NY 11220",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Desktop Computers",
+      "Digital Cameras",
+      "Game Consoles",
+      "Laptop Computers",
+      "MP3 Players"
+    ]
+  },
+  {
+    "Business_Name": "KruseCom",
+    "last_update_date": "2024-11-26",
+    "street_address": "374 N Haverhill Rd Suite 700, West Palm Beach, FL 33415",
+    "materials_accepted": [
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "Desktop Computers",
+      "E-Waste",
+      "Electronic Waste",
+      "Game Consoles",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Medical Equipment - Large",
+      "Printers",
+      "Projectors",
+      "Smartphones",
+      "Smartwatches",
+      "Tablets",
+      "Telephones"
+    ]
+  },
+  {
+    "Business_Name": "Lampmaster Recycling Services, Inc. Mail-in Program",
+    "last_update_date": "2016-5-5",
+    "street_address": "Cincinnati, OH 45216",
+    "materials_accepted": [
+      "Alkaline Batteries",
+      "Audio Equipment",
+      "Blu-Ray Players",
+      "Boomboxes",
+      "Button Cell Batteries",
+      "Cables",
+      "Calculators",
+      "Cassette Players",
+      "CD Players",
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "CFLs",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "CRT Computer Monitors",
+      "CRT Televisions",
+      "Desktop Computers",
+      "Digital Cameras",
+      "DVD Players",
+      "Electronic Servers",
+      "Fluorescent Tubes",
+      "Game Consoles",
+      "GPS Systems",
+      "Halogen Bulbs",
+      "Hard Drives",
+      "Home Electronics",
+      "Incandescent Lightbulbs",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lead-acid Batteries - Non-automotive",
+      "Lithium Batteries",
+      "Lithium-ion Batteries",
+      "MP3 Players",
+      "Neon Lights",
+      "Nickel-cadmium Batteries",
+      "Nickel-metal Hydride Batteries",
+      "Nickel-zinc Batteries",
+      "Office Machines",
+      "Pagers",
+      "Paper Shredders",
+      "Power Tools",
+      "Printers",
+      "Projectors",
+      "Receivers",
+      "Record Players",
+      "Scanners",
+      "Silver-oxide Batteries",
+      "Tablets",
+      "Telephones",
+      "Television Accessories",
+      "Two-Way Radios",
+      "Typewriters",
+      "VCRs",
+      "Video Game Peripherals",
+      "Zinc-air Batteries",
+      "Zinc-carbon Batteries"
+    ]
+  },
+  {
+    "Business_Name": "LampRecycling.com",
+    "last_update_date": "2012-10-12",
+    "street_address": "2200 Ogden Ave #100, Lisle, IL 60532",
+    "materials_accepted": [
+      "Alkaline Batteries",
+      "CFLs",
+      "Desktop Computers",
+      "Floppy Disks",
+      "Fluorescent Tubes",
+      "Items Containing Mercury",
+      "LCD Computer Monitors",
+      "LCD Televisions",
+      "Lighting Ballasts",
+      "Lithium-ion Batteries",
+      "Mercury Thermostats",
+      "Nickel-cadmium Batteries",
+      "Office Machines",
+      "Telephones"
+    ]
+  },
+  {
+    "Business_Name": "Laser Save",
+    "last_update_date": "2012-10-12",
+    "street_address": "843 State Route 33 #11, Freehold, NJ 07728",
+    "materials_accepted": [
+      "Inkjet Cartridges",
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Levi Wilson",
+    "last_update_date": "2024-2-14",
+    "street_address": "615 Counts Estates Dr, Dripping Springs, TX 78620",
+    "materials_accepted": [
+      "Cell Phone Accessories",
+      "Cell Phones",
+      "Computer Peripherals - External",
+      "Computer Peripherals - Internal",
+      "Digital Cameras",
+      "Floppy Disks",
+      "Game Consoles",
+      "GPS Systems",
+      "Hard Drives",
+      "Laptop Computers",
+      "MP3 Players",
+      "Smartphones",
+      "Smartwatches",
+      "Video Game Cartridges",
+      "Video Game Peripherals"
+    ]
+  },
+  {
+    "Business_Name": "LifeCell Project",
+    "last_update_date": "2012-10-12",
+    "street_address": "14 Breeze Ave, Venice, CA 90291",
+    "materials_accepted": [
+      "Cell Phones",
+      "MP3 Players"
+    ]
+  },
+  {
+    "Business_Name": "Lion Recycling",
+    "last_update_date": "2012-10-29",
+    "street_address": "1684 Decoto Rd, Union City, CA 94587",
+    "materials_accepted": [
+      "Cell Phones",
+      "Lithium-ion Batteries"
+    ]
+  },
+  {
+    "Business_Name": "Lions In Sight Recycling Program",
+    "last_update_date": "2012-10-12",
+    "street_address": "1404 Lemon St, Vallejo, CA 94590",
+    "materials_accepted": [
+      "Cell Phones",
+      "Eyeglasses",
+      "Inkjet Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Mac of All Trades",
+    "last_update_date": "2012-10-10",
+    "street_address": "14474 Carlson Cir, Tampa, FL 33626",
+    "materials_accepted": [
+      "Computer Peripherals - External",
+      "Desktop Computers",
+      "Laptop Computers",
+      "LCD Computer Monitors",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "MaxBack",
+    "last_update_date": "2012-10-12",
+    "street_address": "Erie, PA 16507",
+    "materials_accepted": [
+      "Cell Phones",
+      "MP3 Players",
+      "Tablets"
+    ]
+  },
+  {
+    "Business_Name": "National Coalition Against Domestic Violence Cell Phone Donation Program",
+    "last_update_date": "2012-10-12",
+    "street_address": "Dexter, MI 48130",
+    "materials_accepted": [
+      "Cell Phones"
+    ]
+  },
+  {
+    "Business_Name": "NextGen Collections",
+    "last_update_date": "2012-10-10",
+    "street_address": "Rochester, NY 14604",
+    "materials_accepted": [
+      "Toner Cartridges"
+    ]
+  },
+  {
+    "Business_Name": "Nextworth Electronics Recycling",
+    "last_update_date": "2012-10-12",
+    "street_address": "Lawrence, MA 01840",
+    "materials_accepted": [
+      "Cell Phones",
+      "Digital Cameras",
+      "Game Consoles",
+      "GPS Systems",
+      "MP3 Players",
+      "VCRs"
+    ]
+  },
+  {
+    "Business_Name": "Ohio Cell Phone Donation & Recycling",
+    "last_update_date": "2012-10-10",
+    "street_address": "1201 E Bowman St, Wooster, OH 44691",
+    "materials_accepted": [
+      "Cell Phones",
+      "Laptop Computers"
+    ]
+  },
+  {
+    "Business_Name": "Panasonic Toughbook Laptop Recycling Program",
+    "last_update_date": "2012-10-12",
+    "street_address": "Secaucus, NJ 07094",
+    "materials_accepted": [
+      "Laptop Computers"
+    ]
+  },
+  {
+    "Business_Name": "Planet Aid - Give Back Box",
+    "last_update_date": "2023-2-26",
+    "street_address": "6730 Santa Barbara Ct, Elkridge, MD 21075",
+    "materials_accepted": [
+      "Clothing",
+      "Hardcover Books",
+      "Home Electronics",
+      "Paperback Books",
+      "Shoes"
+    ]
+  }
+]

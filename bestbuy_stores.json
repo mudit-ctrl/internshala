@@ -1,0 +1,137 @@
+[
+  {
+    "store_number": 1,
+    "store_name": "Chelsea (23rd and 6th)",
+    "address": "60 W 23rd St, New York,NY10010",
+    "hours": "Open until 9 pm",
+    "distance": "0.5miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/482"
+  },
+  {
+    "store_number": 2,
+    "store_name": "Midtown Manhattan (44th and 5th)",
+    "address": "531 5th Ave, New York,NY10017",
+    "hours": "Open until 9 pm",
+    "distance": "1miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/1028"
+  },
+  {
+    "store_number": 3,
+    "store_name": "Union Square",
+    "address": "52 E 14th St, Number 64, New York,NY10003",
+    "hours": "Open until 9 pm",
+    "distance": "1.1miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/1531"
+  },
+  {
+    "store_number": 4,
+    "store_name": "Jersey City",
+    "address": "125 18th St, Jersey City,NJ07310",
+    "hours": "Open until 9 pm",
+    "distance": "2.5miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/1535"
+  },
+  {
+    "store_number": 5,
+    "store_name": "86th and Lexington",
+    "address": "1280 Lexington Ave, New York,NY10028",
+    "hours": "Open until 9 pm",
+    "distance": "3miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/835"
+  },
+  {
+    "store_number": 6,
+    "store_name": "Secaucus",
+    "address": "3 Mill Creek Dr, Secaucus,NJ07094",
+    "hours": "Open until 9 pm",
+    "distance": "4.2miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/474"
+  },
+  {
+    "store_number": 7,
+    "store_name": "Long Island City",
+    "address": "5001 Northern Blvd, Long Island City,NY11101",
+    "hours": "Open until 9 pm",
+    "distance": "4.4miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/478"
+  },
+  {
+    "store_number": 8,
+    "store_name": "Atlantic Center",
+    "address": "625 Atlantic Ave, Ste A7, Brooklyn,NY11217",
+    "hours": "Open until 9 pm",
+    "distance": "4.7miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/2518"
+  },
+  {
+    "store_number": 9,
+    "store_name": "American Dream",
+    "address": "1 American Dream Way, C351, East Rutherford,NJ07073",
+    "hours": "Open until 10 pm",
+    "distance": "5.6miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/1217"
+  },
+  {
+    "store_number": 10,
+    "store_name": "Bronx Terminal Market",
+    "address": "610 Exterior St, Bronx,NY10451",
+    "hours": "Open until 9 pm",
+    "distance": "6miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/1172"
+  },
+  {
+    "store_number": 11,
+    "store_name": "Rego Park",
+    "address": "6135 Junction Blvd, Rego Park,NY11374",
+    "hours": "Open until 9 pm",
+    "distance": "7miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/483"
+  },
+  {
+    "store_number": 12,
+    "store_name": "Gateway Brooklyn",
+    "address": "369 Gateway Dr, Brooklyn,NY11239",
+    "hours": "Open until 9 pm",
+    "distance": "9.3miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/1886"
+  },
+  {
+    "store_number": 13,
+    "store_name": "Bronx Riverdale",
+    "address": "171 W 230th St, Ste 103, Bronx,NY10463",
+    "hours": "Open until 9 pm",
+    "distance": "10.1miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/1261"
+  },
+  {
+    "store_number": 14,
+    "store_name": "Bay Parkway Brooklyn",
+    "address": "8923 Bay Pkwy, Brooklyn,NY11214",
+    "hours": "Open until 9 pm",
+    "distance": "10.7miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/599"
+  },
+  {
+    "store_number": 15,
+    "store_name": "Bergen Town Center",
+    "address": "2400 Bergen Town Ctr, Paramus,NJ07652",
+    "hours": "Open until 9 pm",
+    "distance": "11.8miles away",
+    "phone": "",
+    "store_details_link": "https://stores.bestbuy.com/887"
+  }
+]
