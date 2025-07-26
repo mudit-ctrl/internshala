@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Webscrapper
 
 ## Overview
@@ -130,3 +131,6 @@ store_number,store_name,address,hours,distance,phone,store_details_link
 
 ## License
 This project is provided for educational and research purposes. Please respect the terms of use of the target websites. 
+=======
+# internshala
+>>>>>>> 421d8183bc4c232d70b523210e1162b203e9de9d
